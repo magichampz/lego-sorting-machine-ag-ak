@@ -1,6 +1,9 @@
 #test
+#test 2 lol
 
 import random as rnd
+import sys
+print(sys.version)
 
 deck = [] # store cards as strings in a list: 5H is Five of Hearts, for example
 for suit in ['C', 'H', 'S', 'D']:
