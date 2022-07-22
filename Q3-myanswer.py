@@ -1,3 +1,5 @@
+#test
+
 import random as rnd
 
 deck = [] # store cards as strings in a list: 5H is Five of Hearts, for example
@@ -61,6 +63,7 @@ while bust == False:
         break
     else:
         print("\ninvalid input\n")
+        
         
     
 
