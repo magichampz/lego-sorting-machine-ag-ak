@@ -15,6 +15,8 @@ https://pyimagesearch.com/2019/03/25/building-a-raspberry-pi-security-camera-wit
 
 Depicted below are 2 examples of lego pieces being classified by the model through the Raspberry Pi's Picamera livestream. 
 
-![](https://github.com/racketmaestro/Lego-motion-detection-and-image-recognition-ak-ag/blob/main/misc/lego_classification_1.gif)
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](![lego_classification_1](https://user-images.githubusercontent.com/91732309/198423234-54a1ee43-15f6-4980-969c-191d30fccf9a.gif))  |  ![](![lego_classification_2](https://user-images.githubusercontent.com/91732309/198423328-0181ce28-5b60-4d10-afc7-047e173993f9.gif)
+)
 
-![](https://github.com/racketmaestro/Lego-motion-detection-and-image-recognition-ak-ag/blob/main/misc/lego_classification_2.gif)
