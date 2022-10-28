@@ -15,6 +15,6 @@ https://pyimagesearch.com/2019/03/25/building-a-raspberry-pi-security-camera-wit
 
 Depicted below are 2 examples of lego pieces being classified by the model through the Raspberry Pi's Picamera livestream. 
 
-![alt-text-1](gifs/lego_classification_1.gif "title-1") ![alt-text-2](gifs/lego_classification_2.gif "title-2")
+![alt-text-1](gifs/lego_classification_1.gif "title-1") &nbsp ![alt-text-2](gifs/lego_classification_2.gif "title-2")
 
 
