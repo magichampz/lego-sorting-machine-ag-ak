@@ -10,8 +10,9 @@ Our model was trained with 6000 images across 7 different categories of lego tec
 
 More images can be taken by editing the motion_detection_and_image_classification.py script.
 
-The motion detection portion of the RaspberryPi script was adapted from pyimagesearch's project 'Building a Raspberry Pi security camera with OpenCV' and can be found at
-https://pyimagesearch.com/2019/03/25/building-a-raspberry-pi-security-camera-with-opencv/
+The motion detection portion of the RaspberryPi script was adapted from pyimagesearch's projects:<br>
+https://pyimagesearch.com/2019/03/25/building-a-raspberry-pi-security-camera-with-opencv/ <br>
+https://pyimagesearch.com/2017/09/18/real-time-object-detection-with-deep-learning-and-opencv/<br>
 
 Depicted below are 2 examples of lego pieces being classified by the model through the Raspberry Pi's Picamera livestream. 
 
