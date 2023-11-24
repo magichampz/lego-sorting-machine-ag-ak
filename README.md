@@ -1,6 +1,7 @@
 # Lego motion detection and image classification
 
-Repository containing software code for a lego technic sorting machine trained using a deep learning model. Check out the full project article detailing the process here: https://medium.com/towards-data-science/enhancing-nullspace-robotics-capabilities-building-a-lego-sorter-with-advanced-object-recognition-7ba5d70c9902
+Repository containing software code for a lego technic sorting machine trained using a deep learning model. 
+<br> Check out the full project article detailing the process here: https://medium.com/towards-data-science/enhancing-nullspace-robotics-capabilities-building-a-lego-sorter-with-advanced-object-recognition-7ba5d70c9902
 
 The files in the computer folder are meant for use on your own computer. You can create and train your own deep learning model using your own data and also test this model on your computer. The model was trained on Google colab, so create_training_data_array.py was used to upload data in the form of a numpy array to Google colab. After transfering the tflite model to your Pi, you can then run the image classification file in the raspberry-pi folder to detect and classify lego pieces in real time.
 
